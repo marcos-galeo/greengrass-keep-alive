@@ -1,0 +1,16 @@
+{
+    "component": {
+      "com.example.keep-alive": {
+        "author": "José Antonio García",
+        "version": "NEXT_PATCH",
+        "build": {
+          "build_system" : "zip"
+        },
+        "publish": {
+          "region": "eu-west-1",
+          "bucket": "greengrass-component-artifacts"
+        }
+      }
+    },
+    "gdk_version": "1.0.0"
+  }
